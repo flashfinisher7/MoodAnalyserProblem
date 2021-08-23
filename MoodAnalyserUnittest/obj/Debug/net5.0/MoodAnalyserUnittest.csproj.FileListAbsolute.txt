@@ -1,0 +1,6 @@
+C:\Users\mvsan\fellowship_program\day20\MoodAnalyzer\MoodAnalyserProblem\MoodAnalyserUnittest\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\mvsan\fellowship_program\day20\MoodAnalyzer\MoodAnalyserProblem\MoodAnalyserUnittest\obj\Debug\net5.0\MoodAnalyserUnittest.csproj.AssemblyReference.cache
+C:\Users\mvsan\fellowship_program\day20\MoodAnalyzer\MoodAnalyserProblem\MoodAnalyserUnittest\obj\Debug\net5.0\MoodAnalyserUnittest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvsan\fellowship_program\day20\MoodAnalyzer\MoodAnalyserProblem\MoodAnalyserUnittest\obj\Debug\net5.0\MoodAnalyserUnittest.AssemblyInfoInputs.cache
+C:\Users\mvsan\fellowship_program\day20\MoodAnalyzer\MoodAnalyserProblem\MoodAnalyserUnittest\obj\Debug\net5.0\MoodAnalyserUnittest.AssemblyInfo.cs
+C:\Users\mvsan\fellowship_program\day20\MoodAnalyzer\MoodAnalyserProblem\MoodAnalyserUnittest\obj\Debug\net5.0\MoodAnalyserUnittest.csproj.CoreCompileInputs.cache
